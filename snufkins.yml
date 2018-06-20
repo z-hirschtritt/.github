@@ -1,0 +1,3 @@
+jiraTicketRegEx: /[A-Z]{2,10}-\d+/i
+slackIntegration: 
+  enableNotifications: true

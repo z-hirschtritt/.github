@@ -1,4 +1,3 @@
-_extends: .github
 papersPlease:
   isEnabled: true
   jiraProjectKeys: ['APPS', 'TOOLS', 'QA', 'BRAIN']

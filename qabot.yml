@@ -1,0 +1,22 @@
+papersPlease:
+  isEnabled: true
+  jiraProjectKeys: ['APPS', 'TOOLS', 'QA', 'BRAIN']
+mergeSafe:
+  isEnabled: true
+releaseNotes:
+  isEnabled: true
+  appIdParentPages:
+    workflow_manager: 543948822
+    wis_xpo: 574161037
+    wis_bdc: 543948826
+    wis_cnb: 596312205
+    wis_kgm: 596345004
+    task_coordinator: 543948809
+    qa-test-repo: 539525245
+    map_manager: 590643395
+    e-store: 596213849
+    mfp_executive: 596344997
+    grmui: 596279423
+    wis_act: 596181072
+    qa_github_bot: 596050044
+    cfs_models: 596246713
